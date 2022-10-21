@@ -1,0 +1,1 @@
+import{h as r,o as t,c as n}from"./index.46917103.js";const l={__name:"ProjectSingleView",props:{id:{required:!0}},setup(e){const o=e;return r(()=>{console.log(o.id)}),(c,s)=>(t(),n("p",null,"voila"))}};export{l as default};
